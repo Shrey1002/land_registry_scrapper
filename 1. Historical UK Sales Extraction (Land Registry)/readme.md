@@ -17,7 +17,7 @@ This Python project allows you to automate downloading **property sales data** f
 
 ## 📦 Dependencies
 
-Install all dependencies using `pip`:
+Install all dependencies using `requirements.txt`:
 
 ```bash
-pip install selenium pandas webdriver-manager
+pip install -r requirements.txt
