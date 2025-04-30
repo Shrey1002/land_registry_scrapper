@@ -37,8 +37,8 @@ This Python script automates the retrieval of residential property listings from
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/zoopla-postcode-scraper.git
-cd zoopla-postcode-scraper
+git clone https://github.com/Shrey1002/land_registry_scrapper.git
+cd 2. Comparable Listings Analysis (Zoopla)
 ```
 
 ### 2. Install dependencies
