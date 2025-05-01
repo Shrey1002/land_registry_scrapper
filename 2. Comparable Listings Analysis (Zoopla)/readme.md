@@ -46,3 +46,8 @@ cd 2. Comparable Listings Analysis (Zoopla)
 ```bash
 pip install -r requirements.txt
 ```
+
+### 3. Run the Script
+```bash
+python scrape_zoopla.py
+```
