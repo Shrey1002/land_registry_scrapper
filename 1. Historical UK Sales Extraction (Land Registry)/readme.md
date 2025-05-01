@@ -21,3 +21,11 @@ Install all dependencies using `requirements.txt`:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## ▶️ Run the Script
+To execute the program, run the following command in your terminal:
+
+```bash
+python extract_land_registry.py
+```
